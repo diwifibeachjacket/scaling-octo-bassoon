@@ -1,0 +1,19 @@
+{
+  "build": "py312haa95532_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "docutils-0.18.1-py312haa95532_3.conda",
+  "license": "LicenseRef-Public-Domain-Dedictation and BSD-2-Clause and LicenseRef-PSF-2.1.1 and GPL-3.0-or-later",
+  "md5": "d4b9b6779d3d5fa64f2e146010e66e89",
+  "name": "docutils",
+  "sha256": "91bab3f4cb6f3115e378d8cb369de8eb720417d91672a5f12cc97dc3e3cc3896",
+  "size": 882025,
+  "subdir": "win-64",
+  "timestamp": 1699474845000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/docutils-0.18.1-py312haa95532_3.conda",
+  "version": "0.18.1"
+}
